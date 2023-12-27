@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Urban-fit/static/css/main.e2d942b7.css",
+    "main.js": "/Urban-fit/static/js/main.ec206a0a.js",
+    "static/js/787.bddcecf2.chunk.js": "/Urban-fit/static/js/787.bddcecf2.chunk.js",
+    "static/media/bg-Section-1.png": "/Urban-fit/static/media/bg-Section-1.4d3c472f6cc87f97b2d3.png",
+    "static/media/excercise-1.jpg": "/Urban-fit/static/media/excercise-1.b8e85028bcbcd23e2c15.jpg",
+    "static/media/excercise-3.jpg": "/Urban-fit/static/media/excercise-3.da5340f50b8a02ea0b72.jpg",
+    "static/media/excercise-2.jpg": "/Urban-fit/static/media/excercise-2.96ce3768366249b244a9.jpg",
+    "static/media/excercise-4.jpg": "/Urban-fit/static/media/excercise-4.dde4690454c8b76ba4bb.jpg",
+    "static/media/bg-Section-2.jpg": "/Urban-fit/static/media/bg-Section-2.0ae0199bdf8fa8d21511.jpg",
+    "static/media/back-pull.jpg": "/Urban-fit/static/media/back-pull.7577faf24da0807eefb2.jpg",
+    "static/media/logo.svg": "/Urban-fit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Urban-fit/index.html",
+    "main.e2d942b7.css.map": "/Urban-fit/static/css/main.e2d942b7.css.map",
+    "main.ec206a0a.js.map": "/Urban-fit/static/js/main.ec206a0a.js.map",
+    "787.bddcecf2.chunk.js.map": "/Urban-fit/static/js/787.bddcecf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d942b7.css",
+    "static/js/main.ec206a0a.js"
+  ]
+}
