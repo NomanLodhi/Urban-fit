@@ -1,0 +1,46 @@
+body{
+  font-family: 'Inter';
+}
+.bg-black-custom{
+  background-color:#191919 !important;
+}
+.text-green{
+  color: #84C441 !important;
+}
+.bg-green{
+  background-color: #84C441 !important;
+}
+
+.w-btn-nav{
+  width: 100px;
+}
+.fs-sm{
+  font-size: 10px;
+  padding: 4px;
+
+}
+.border-form{
+  border: 3px solid black;
+}
+.bg-grad{
+  background: linear-gradient(180deg, rgba(125, 176, 16, 0.80) 0%, rgba(112, 112, 112, 0.00) 100%);
+}
+.bg-section-1{
+  background-image: url(./img/bg-Section-1.png);
+  height: 610px;
+  background-size: cover;
+}
+.bg-section-2{
+  background-image: url(./img/bg-Section-2.jpg);
+  height: 610px;
+  background-size: cover;
+}
+.focus-input::placeholder{
+color: #191919 !important;
+}
+.focus-input:focus-visible{
+  outline: unset;
+}
+.ul-footer li{
+list-style: none;
+}
